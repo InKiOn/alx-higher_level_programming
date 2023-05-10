@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 """Match bytecode"""
+
+
 def magic_calculation(a, b, c):
     if a < b:
         return (c)
